@@ -209,29 +209,36 @@ def create_model(total_words, max_sequence_len):
 
 ## OUTPUT
 ### 1. fit_vectorizer output
+![1](https://github.com/user-attachments/assets/5f97a7f5-5074-4898-97d4-4c4b87284a04)
 
-![image](https://github.com/user-attachments/assets/6a719909-6fe9-44cd-a592-8cddf3bbf621)
+
 
 ### 2. n_grams_seqs output
-![image](https://github.com/user-attachments/assets/1d49c3a0-efe7-4419-9c3f-c8127845c8f0)
+![2](https://github.com/user-attachments/assets/041e6e57-5569-419e-929e-2eadbdcf6e8b)
+
 
 
 ### 3. pad_seqs output
-![image](https://github.com/user-attachments/assets/76c888af-9914-4a31-a868-d78438b1e74d)
+![3](https://github.com/user-attachments/assets/504fe2f8-54bd-4c31-8e3f-454f7a5f8281)
+
 
 
 ### 4. features_and_labels_dataset output
-![image](https://github.com/user-attachments/assets/0768d013-e513-466a-9da2-7b7f6e445ba3)
+![4](https://github.com/user-attachments/assets/2a09f175-a22a-4073-be1b-74cede8e1df3)
+
+
 
 
 ### 5. Training Loss, Validation Loss Vs Iteration Plot
 
-![image](https://github.com/user-attachments/assets/e640cf13-9ca2-4385-95a4-3ae9ce9d0c92)
+![5](https://github.com/user-attachments/assets/7cded81b-0f73-4e27-99f6-74d85988b115)
+
 
 
 ### 6. Sample Text Prediction
-![image](https://github.com/user-attachments/assets/9c796a1a-2a14-47d4-be82-ef77370d23a0)
-.
+
+.![6](https://github.com/user-attachments/assets/e1f80579-6fb8-4652-8cab-06336ba9bec1)
+
 
 ## RESULT
 Thus, a trained text generator model capable of predicting the next word in a sequence from the given corpus is successfully implelemted.
